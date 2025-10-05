@@ -142,24 +142,10 @@ Model Configuration
 Embedding Model: all-MiniLM-L6-v2
 Generation Model: gemini-2.0-flash-exp
 
-📁 Project Structure
-.
-├── main.ipynb              # Backend Jupyter notebook
-├── .env                    # Environment variables (create this)
-├── frontend/
-│   ├── src/
-│   │   ├── App.js         # Main React component
-│   │   ├── index.js       # React entry point
-│   │   └── index.css      # Global styles
-│   ├── package.json
-│   └── public/
-└── README.md
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-📝 License
-This project is open source and available under the MIT License.
-🙏 Acknowledgments
 
+🙏 Acknowledgments
 Google Gemini AI for natural language generation
 Sentence-Transformers for embedding models
 ChromaDB for vector storage
