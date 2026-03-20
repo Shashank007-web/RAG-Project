@@ -1,4 +1,4 @@
-RAG Document Q&A System
+RAG Document Q&A System(AI)
 An advanced Retrieval-Augmented Generation (RAG) system that enables intelligent question-answering over PDF documents using Google's Gemini 2.0 Flash model, vector embeddings, and adaptive query routing strategies.
 🎯 Project Description
 This application implements a sophisticated RAG pipeline that goes beyond simple vector similarity search. It intelligently analyzes incoming queries to determine their complexity and automatically selects the optimal retrieval strategy:
